@@ -14,4 +14,11 @@
         android:layout_height="wrap_content"
         android:text="Bind CustomService"
         android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn_bind_messenger_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bind MessengerService"
+        android:layout_marginTop="10dp"/>
 </LinearLayout>

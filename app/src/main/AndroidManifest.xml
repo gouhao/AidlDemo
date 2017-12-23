@@ -15,5 +15,6 @@
 
         <service android:name=".service.AidlCreateService" android:process="com.gouhao.remote"/>
         <service android:name=".service.CustomCreateService"/>
+        <service android:name=".service.MessengerService" android:process="com.gouhao.me"/>
     </application>
 </manifest>
